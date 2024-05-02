@@ -1,11 +1,11 @@
 
-<h1 align="left"">Overview Hee </h1>
+<!-- <h1 align="left"">Overview Hee </h1> -->
 <div align= "left"> 
 <!--     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> </h2>   -->
 <!--내용 부분-->
-<h3> Hi👋 My name is Gahee Ryu Backend Developer in Korea.</h3>
-<h3> I primarily develop with Node.js </h3>
-<h3> I'm committed to continually learning and expanding my skills to explore various domains in the future✊ </h3>
+<h3> Hi 👋</h3>
+<h3>I'm Backend Developer who primarily develop with Node.js</h3>
+<h3> I'm committed to continually learning and expanding my skills ✊ </h3>
 </div>
 <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> </h2>
 <h3 align="left">✨ Tech Stack </h3>
