@@ -4,7 +4,7 @@
 <!--     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> </h2>   -->
 <!--내용 부분-->
 <h3> Hi 👋</h3>
-Backend Developer who primarily develop with Node.js 👋<br>
+Backend Developer who primarily develop with Node.js<br>
 I'm committed to continually learning and expanding my skills ✊
 </div>
 <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> </h2>
