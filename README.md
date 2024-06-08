@@ -1,12 +1,17 @@
 
 <!-- <h1 align="left"">Overview Hee </h1> -->
 <div align= "left"> 
-<!--     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> </h2>   -->
 <!--내용 부분-->
-<h3> Hi 👋</h3>
-Backend Developer who primarily develop with Node.js<br>
-I'm committed to continually learning and expanding my skills ✊
+<h2>RYU GA HEE</h2>
+<a href="https://velog.io/@rugaheedori/posts"><img src="https://img.shields.io/badge/Velog-20C997?style=flat-square&logo=Velog&logoColor=white"/>&nbsp
+<a href="mailto:fbrkgml@gmail.com"><img src="https://img.shields.io/badge/fbrkgml42@gmail.com-EA4335?style=flat-square&logo=Gmail&logoColor=white"/>
 </div>
+<h3 align="left"> 💻 Career </h3>
+<div align="left"">
+    
+| Enterprise       |Department           |Position                  |
+| :------------    |:--------------------|:---------------------------- |
+| `오션스(Probit)`   |IT Development Team  |Backend Developer |
 <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> </h2>
 <h3 align="left">✨ Tech Stack </h3>
 <div align="left">
@@ -48,13 +53,6 @@ I'm committed to continually learning and expanding my skills ✊
     <img src="https://img.shields.io/badge/Notion-F3F3F3.svg?style=flat&logo=notion&logoColor=black" />&nbsp
     <img src="https://img.shields.io/badge/figma-F24E1E.svg?style=flat&logo=figma&logoColor=white" />&nbsp
 </div>
-<h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> </h2>  
-<h3 align="left"> 💻 Career </h3>
-<div align="left"">
-    
-| Enterprise       |Department           |Position                  |
-| :------------    |:--------------------|:---------------------------- |
-| `오션스(Probit)`   |IT Development Team  |Backend Developer |
 
 </div>
 
