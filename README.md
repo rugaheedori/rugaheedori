@@ -3,8 +3,8 @@
 <div align= "left"> 
 <!--내용 부분-->
 <h2>RYU GA HEE</h2>
-<a href="https://velog.io/@rugaheedori/posts"><img src="https://img.shields.io/badge/Velog-20C997?style=flat-square&logo=Velog&logoColor=white"/>&nbsp
-<a href="mailto:fbrkgml@gmail.com"><img src="https://img.shields.io/badge/fbrkgml42@gmail.com-EA4335?style=flat-square&logo=Gmail&logoColor=white"/>
+<a href="https://velog.io/@rugaheedori/posts" target="_blank"><img src="https://img.shields.io/badge/Velog-20C997?style=flat-square&logo=Velog&logoColor=white"/></a>&nbsp
+<a href="mailto:fbrkgml@gmail.com" target="_blank"><img src="https://img.shields.io/badge/fbrkgml42@gmail.com-EA4335?style=flat-square&logo=Gmail&logoColor=white"/></a>
 </div>
 <h3 align="left"> 💻 Career </h3>
 <div align="left"">
